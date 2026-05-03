@@ -121,13 +121,9 @@ uv run main.py
 ## 广告位
 **如果你对neuro社区项目感兴趣的话**
 
-**请加入NeuForge Community了解更多内容**
+**请加入STNC了解更多内容**
 
-**NeuForge Community 423902950**
-
-请加入NeuroSama吧群谢谢喵
-
-**NeuroSama吧群734688012**
+**STNC蜂群技术情报中心 125081756**
 
 请加入文学社谢谢喵
 
